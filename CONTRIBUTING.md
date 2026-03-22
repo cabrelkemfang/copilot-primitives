@@ -24,10 +24,5 @@ Contributions are welcome! If you found an interesting Copilot primitive — a p
 
 | Folder | What goes there |
 |--------|----------------|
-| `primitives/prompting/` | Prompt patterns and techniques |
-| `primitives/agents/` | Agentic / multi-step workflows |
-| `primitives/edits/` | Inline edit patterns |
-| `primitives/chat/` | Chat context and tricks |
-| `community/links.md` | External blog posts or articles |
-| `community/videos.md` | Demo or tutorial videos |
-| `community/people-to-follow.md` | Creators sharing Copilot content |
+| `community/skils/videos.md` | Demo or tutorial videos |
+| `community/skils/people-to-follow.md` | Creators sharing Copilot content |
